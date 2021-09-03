@@ -16,8 +16,8 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running Project
 
-clone the project in your local system
-open netflix-clone-using-angular folder
+clone the project in your local system,
+open netflix-clone-using-angular folder and
 install bootstrap, angular cli 
 then run this command to install devkit [npm i @angular-devkit/build-angular]
 now run with ng serve command
