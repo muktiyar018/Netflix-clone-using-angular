@@ -16,7 +16,14 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+clone the project in your local system
+open netflix-clone-using-angular folder
+install bootstrap, angular cli 
+then run this command to install devkit [npm i @angular-devkit/build-angular]
+now run with ng serve command
+and navigate to localhost:4200 in your browser
+
+I have uploaded screenshots of the page in src folder
 
 ## Running end-to-end tests
 
